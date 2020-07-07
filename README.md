@@ -45,3 +45,7 @@ $ mv <file.txt> <newdir>/<file.txt>
 ```bash
 $ rm
 ```
+* Remove directory
+```bash
+$ rm -rf <directory-to-eliminate/>
+```
